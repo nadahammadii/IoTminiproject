@@ -1,4 +1,4 @@
-![image](https://github.com/nadahammadii/IoTminiproject/assets/148150733/14892826-0549-406f-8a1f-da0fb428b9a6)#Les Composants utilisé:
+#Les Composants utilisé:
 
 #1 la carte STM32L475VGT6:
 ![image](https://github.com/nadahammadii/IoTminiproject/assets/148150733/bfbc5afb-f842-43ce-b394-54f8df42d92c)
@@ -138,7 +138,7 @@ on va ajouter cette partie de code pour initialiser le ssid et le password de wi
 ![image](https://github.com/nadahammadii/IoTminiproject/assets/148150733/c3c99ebe-e41a-41a8-aba0-14c28bdd5a63)
 on va appell´e la fonction dans wifi server le boucle while
 
-![image](https://github.com/nadahammadii/IoTminiproject/assets/148150733/4175dc3b-df61-4c7c-b084-a953747dd50e)
+![image](https://github.com/nadahammadii/IoTminiproject/assets/148150733/14892826-0549-406f-8a1f-da0fb428b9a6)
 
 #13 ´etape 8:
 pour faire l’execution il faut implement´e la carte avec le pc en utilisant le cable usb.
